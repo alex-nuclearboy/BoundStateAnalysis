@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Compiled files
+main
+mainDict*
+mainDict.*
+
+# Scripts & log files
+analysis-run-*
+analysis-mc-*
+smear.txt
+
+# Output files
+*.root
